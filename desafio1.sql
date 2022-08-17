@@ -66,7 +66,7 @@ DROP DATABASE IF EXISTS SpotifyClone;
 
   INSERT INTO SpotifyClone.usuarios (usuario_id, usuario_nome,idade,plano_id,data_assinatura)
   VALUES
-    ('1', 'Barbara Liskoy', '82', '1', '2019-10-20'),
+    ('1', 'Barbara Liskov', '82', '1', '2019-10-20'),
     ('2', 'Robert Cecil Martin', '58', '1', '2017-01-06'),
     ('3', 'Ada Lovelace', '37', '4', '2017-12-30'),
     ('4', 'Martin Fowler', '46', '4', '2017-01-17'),
